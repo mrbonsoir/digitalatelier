@@ -1,0 +1,9 @@
+*jpg
+*png
+.DS_Store
+python-notebook/*jpg
+python-notebook/*png
+python-notebook/*pto
+python-notebook/*tif
+python-notebook/.DS_Store
+python-notebook/.ipynb_checkpoints
